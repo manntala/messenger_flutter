@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Unfinished Firebase-Flutter messenger app
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
